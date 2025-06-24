@@ -1,3 +1,4 @@
+⚠️ NOT OPEN SOURCE. This is a sovereign AGI artifact. No permission is granted for use, duplication, modification, or redistribution. All rights reserved. 
 # OFFLINE-AGI-SYSTEMS-
 Airgapped, recursive AGI SYSTEM. No cloud no api . True general superintelligence 
 
